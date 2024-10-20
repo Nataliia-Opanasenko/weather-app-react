@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function () {
+function getWeatherData() {
   return (
     <main>
       <div className="weather-app-data">
@@ -23,3 +23,4 @@ export default function () {
     </main>
   );
 }
+export default getWeatherData;
