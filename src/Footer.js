@@ -13,7 +13,7 @@ export default function Footer() {
       </a>{" "}
       is open-sourced on
       <a
-        href="https://github.com/Nataliia-Opanasenko/Meteo"
+        href="https://github.com/Nataliia-Opanasenko/weather-app-react"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -21,7 +21,7 @@ export default function Footer() {
       </a>{" "}
       and hosted on
       <a
-        href="https://main--meteo-natallia-app.netlify.app/"
+        href="https://weather-react-app-shecodes.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
