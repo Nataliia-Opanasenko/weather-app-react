@@ -1,4 +1,3 @@
-
 import './App.css';
 import WeatherData from "./WeatherData";
 import Footer from './Footer';
