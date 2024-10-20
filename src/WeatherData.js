@@ -5,7 +5,7 @@ function getWeatherData() {
     <main>
       <div className="weather-app-data">
         <div>
-          <h1 className="weather-app-city" id="city"></h1>
+          <h2 className="weather-app-city" id="city"></h2>
           <p className="weather-app-details">
             <span id="time"></span>, <span id="description"></span>
             <br />
